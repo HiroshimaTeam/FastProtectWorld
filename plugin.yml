@@ -1,0 +1,11 @@
+name: FastProtectWorld
+version: 1.0.0-BETA
+api: 3.0.0
+main: Zoumi\FastProtectWorld\Main
+authors:
+  - Zoumi
+  - HiroTeam
+
+permissions:
+  use.worldprotect:
+    default: op
